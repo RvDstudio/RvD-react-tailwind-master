@@ -1,0 +1,16 @@
+body {
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.428571428571429;
+}
+
+.bg-gradient-green {
+    border-radius: .9rem;
+    background-image: linear-gradient(90deg, #45957b, #36486a 79%);
+}
+
+.green-card {
+    border: 1px solid #416f79;
+    background-color: #365d65;
+    border-radius: .6rem;
+}
