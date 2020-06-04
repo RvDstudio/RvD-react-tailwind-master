@@ -4,7 +4,7 @@
 
 npm install
 
-# Watch CSS & run server on :3000
+# Watch CSS & run server on localhost:3000
 
 npm start
 
