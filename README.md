@@ -14,4 +14,6 @@ npm run build
 
 ```
 
+And your React & Tailwind css Starter is ready to go
+
 ```
